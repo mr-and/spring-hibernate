@@ -11,6 +11,7 @@
 
     <modules>
         <module>section_04</module>
+        <module>section_05</module>
     </modules>
 
     <properties>
