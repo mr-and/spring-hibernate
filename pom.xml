@@ -12,6 +12,7 @@
     <modules>
         <module>section_04</module>
         <module>section_05</module>
+        <module>section_06</module>
     </modules>
 
     <properties>
