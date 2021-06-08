@@ -11,7 +11,7 @@
     <bean id="fortuneService" class="HappyFortuneService"/>
     <bean id="randomFortuneService" class="RandomFortuneService"/>
 
-    <bean id="myBaseballCoach" class="BaseballCoach">
+    <bean id="myBaseballCoach" class="annotation.TennisCoach">
         <constructor-arg ref="randomFortuneService"/>
     </bean>
 
